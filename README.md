@@ -33,15 +33,20 @@ npm run dev
 
 
 ⚙️ Setup .env File
-MONGODB_URI=your_mongodb_uri
-PORT=5001
-JWT_SECRET=your_jwt_secret
 
-CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+MONGODB_URI=your_mongodb_uri.
 
-NODE_ENV=development
+PORT=5001.
+
+JWT_SECRET=your_jwt_secret.
+
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name.
+
+CLOUDINARY_API_KEY=your_cloudinary_api_key.
+
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret.
+
+NODE_ENV=development.
 
 
 

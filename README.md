@@ -33,7 +33,6 @@ npm run dev
 
 
 ⚙️ Setup .env File
-
 MONGODB_URI=your_mongodb_uri
 PORT=5001
 JWT_SECRET=your_jwt_secret
@@ -43,6 +42,7 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 NODE_ENV=development
+
 
 
 **Live link of this project:** https://speaky-1.onrender.com
